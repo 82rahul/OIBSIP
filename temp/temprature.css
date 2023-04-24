@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	background:url('img.jpg')no-repeat center center /cover;
+}
+h2{text-align: center;
+background:no-repeat;
+color: purple;
+font-size: 39px;
+padding: 20px;
+}
+p{text-align: center;
+	padding: 20px 30px;
+color: purple;
+font-size: 35px;
+background: no-repeat;
+}
+#inputFahrenheit{color: blue;
+	background-color: white;
+	background: no-repeat;
+	font-size: 35px;
+}
+h3{font-size: 37px;
+	text-align: center;
+	padding: 30px 40px;
+	background: no-repeat;
+}
+#outputCelcius{color: white;
+	background: no-repeat;
+background-color: deeppink;}
+
+label{
+	background: no-repeat;
+	color: deeppink;
+	font-style: initial;
+}
